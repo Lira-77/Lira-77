@@ -5,7 +5,7 @@ Tenho 18 anos e estudo o curso de **Ciências da Computação** na **CESAR Schoo
 ## Contato
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)][Instagram](https://www.instagram.com/guilhermeclira)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)[Instagram](https://www.instagram.com/guilhermeclira)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn](https://www.linkedin.com/in/guilhermeclira)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)[LinkedIn](https://www.linkedin.com/in/guilhermeclira)
